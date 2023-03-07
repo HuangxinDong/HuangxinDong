@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RingW0rm
-- 👀 I’m currently interested in linguistics, programing and literature.
+- 👀 I’m interested in linguistics, programing, literature and video game.
 - 📫 My email is: donghx2002@outlook.com, feel free to contact me anytime!
 
 <!---
