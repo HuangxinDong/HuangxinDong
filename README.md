@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @:-D
 - 👀 I’m interested in linguistics, programing, literature and video game.
-- 🔭 I'm currently working on a research paper that explores the pitch relationships across multiple countries. I also enjoy contributing to open-source projects related to linguistics.
-- 📫 My email is: 2012925@mail.nankai.edu.cn, feel free to contact me anytime!
+- 🔭 I'm currently working on a research paper that explores the pitch relationships across multiple countries. I also interested in speech recognition and speech synthesis. 
+- 📫 My email is: 2012925@mail.nankai.edu.cn, feel free to contact me anytime! 
