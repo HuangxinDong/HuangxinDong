@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @:-D
-- 📫 My email is: huangxindong@mail.nankai.edu.cn, feel free to contact me anytime! 
+- 📫 My email is: hx.dong@outlook.com, feel free to contact me anytime! 
